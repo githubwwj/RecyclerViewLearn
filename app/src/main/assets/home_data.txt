@@ -3,40 +3,51 @@
     "message": "数据说明-cover:首页轮播图; tuijian:魔购推荐; huodong:魔购活动; theme:魔购主题; tbtuijian:魔购特别推荐; goodsday:提示语;",
     "data": {
         "cover": [
-            {
-                "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/index/5a274866b1550_small.jpg",
-                "url": "",
-                "type": "3",
-                "group": "",
-                "topic_id": "306",
-                "sort": "118",
-                "img_width": 640,
-                "img_height": 440,
-                "title": ""
-            },
-            {
-                "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/index/593e0bd5dcd00_small.jpg",
-                "url": "",
-                "type": "3",
-                "group": "",
-                "topic_id": "226",
-                "sort": "113",
-                "img_width": 640,
-                "img_height": 440,
-                "title": ""
-            },
-             {
-                "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/index/5a1287fc980a0_small.jpg",
-                "url": "",
-                "type": "3",
-                "group": "",
-                "topic_id": "226",
-                "sort": "113",
-                "img_width": 640,
-                "img_height": 440,
-                "title": ""
-            }
-        ],
+                    {
+                        "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/index/5a274866b1550_small.jpg",
+                        "url": "",
+                        "type": "3",
+                        "group": "",
+                        "topic_id": "306",
+                        "sort": "118",
+                        "img_width": 640,
+                        "img_height": 440,
+                        "title": ""
+                    },
+                    {
+                        "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/index/595dfb1d01357_small.jpg",
+                        "url": "",
+                        "type": "3",
+                        "group": "",
+                        "topic_id": "299",
+                        "sort": "116",
+                        "img_width": 640,
+                        "img_height": 440,
+                        "title": ""
+                    },
+                    {
+                        "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/index/595dfaf8157c3_small.jpg",
+                        "url": "",
+                        "type": "3",
+                        "group": "",
+                        "topic_id": "300",
+                        "sort": "115",
+                        "img_width": 640,
+                        "img_height": 440,
+                        "title": ""
+                    },
+                    {
+                        "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/index/593e0bd5dcd00_small.jpg",
+                        "url": "",
+                        "type": "3",
+                        "group": "",
+                        "topic_id": "226",
+                        "sort": "113",
+                        "img_width": 640,
+                        "img_height": 440,
+                        "title": ""
+                    }
+                ],
         "tuijian": [
             {
                 "produc_id": "34196",
