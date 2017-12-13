@@ -1,0 +1,44 @@
+{
+    "tuijian": [
+        {
+            "produc_id": "34196",
+            "title": "",
+            "price": "38",
+            "producnumb": "148877726618538",
+            "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/tuijian/5996bccde6753_small.jpg",
+            "sort": "3",
+            "img_width": 210,
+            "img_height": 280
+        },
+        {
+            "produc_id": "31173",
+            "title": "",
+            "price": "118",
+            "producnumb": "1474881282902434",
+            "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/tuijian/5996bcac538c6_small.jpg",
+            "sort": "2",
+            "img_width": 210,
+            "img_height": 280
+        },
+        {
+            "produc_id": "34979",
+            "title": "",
+            "price": "8.9",
+            "producnumb": "1503477613350712",
+            "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/tuijian/59dc72661581d_small.jpg",
+            "sort": "1",
+            "img_width": 210,
+            "img_height": 280
+        },
+        {
+            "produc_id": "34979",
+            "title": "",
+            "price": "8.9",
+            "producnumb": "1503477613350712",
+            "img_url": "http://www.mallgo.com/Tpl/default/upload/wshop/tuijian/59dc72661581d_small.jpg",
+            "sort": "1",
+            "img_width": 210,
+            "img_height": 280
+        }
+    ]
+}
